@@ -1,2 +1,3 @@
 # <br>Dads-Joke
-Created an google-chrome extensions for fun and having jokes related to dad's .
+<i> CREATED AN GOOGLE CHROME EXTENSION FOR JUST FUN AND ANYONE
+CAN USE IT FOR THEIR GOOGLE CHROME</i>
