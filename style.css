@@ -1,0 +1,21 @@
+
+body {
+
+    width: 150px;
+    height: 200px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 100%;
+    color: yellow;
+    
+    
+    padding: 5px;
+}
